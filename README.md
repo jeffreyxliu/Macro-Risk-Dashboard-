@@ -1,6 +1,6 @@
 # Macro-Risk-Dashboard
 
-Cross-asset macro regime model combining volatility, rates, credit, FX, and commodities
+Cross-asset macro risk dashboard that classifies market regimes using volatility, rates, credit, and FX signals
 
 ## Features
 - Composite risk score
